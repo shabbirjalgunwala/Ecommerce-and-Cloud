@@ -1,0 +1,45 @@
+
+Assignment No. 1 : Working on Google Drive to make Spreadsheets 
+
+1\. Login to your Google account.
+
+2\. Open Google Drive.
+
+3\. Click on 'New' → Choose 'Google Sheets' to create a spreadsheet.
+
+4\. Save and organize files in folders on Drive.
+
+
+Assignment No. 2 : Working on Google Drive to make Notes
+
+1\. Login to your Google account.
+
+2\. Open Google Drive.
+
+3\. Click on 'New' → Choose Keep Notes to make notes.
+
+4\. Save and organize files in folders on Drive.
+
+
+Assignment No. 3 : Implementing Virtual Machines with VirtualBox
+
+1\. Download and install Oracle VirtualBox.
+
+2\. Create a new Virtual Machine (VM).
+
+3\. Select the OS type and allocate memory.
+
+4\. Mount the ISO file and install the OS.
+
+5\. Start and test your VM.
+
+
+Assignment No. 4 : Setting Up a Simple Website on GitHub
+
+1\. Create a GitHub account and new repository.
+
+2\. Add HTML files to the repository.
+
+3\. Enable GitHub Pages in repository settings.
+
+4\. Access your live site using the provided GitHub Pages link.

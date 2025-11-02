@@ -1,0 +1,86 @@
+Practical No. 1: Download readymade free templates of E-Commerce websites and modify it
+•	Steps:
+1.	Open your web browser.
+2.	Search for “Free E-Commerce website templates.”
+3.	Visit any free template website (e.g., Free CSS, HTML5UP, etc.).
+4.	Download a suitable template.
+5.	Extract the ZIP file on your computer.
+6.	Open the template folder in VS Code or any HTML editor.
+7.	Modify text, images, and layout as per your requirement.
+8.	Save and preview the webpage in the browser.
+
+Practical No. 2: Create simple and static demo web page for online shopping site
+•	Steps:
+1.    Open your code editor (e.g., VS Code).
+2.	Create a new HTML file named “index.html.”
+3.	Add basic HTML structure with title “Online Shopping Site.”
+4.	Insert navigation menu, product images, and “Buy Now” buttons.
+5.	Add CSS for layout and design.
+6.	Save and preview your webpage in a browser.
+
+
+Practical No. 3: Create simple and static Feedback Form (web page) for online shopping site
+•	Steps:
+1.	Open your code editor and create a new HTML file named “feedback.html.”
+2.	Add a <form> tag with fields like Name, Email, Feedback, and Submit button.
+3.	Use CSS to style the form.
+4.	Save and preview the feedback page.
+
+Practical No. 4: Create simple and static demo product catalog web page for online shopping site
+•	Steps:
+1.	Open your code editor and create “products.html.”
+2.	Create a table or grid to display product images, names, and prices.
+3.	Add “Add to Cart” buttons for each product.
+4.	Style the page using CSS.
+5.	Save and open in browser to view the product catalog.
+
+Practical No. 5: Demonstrate domain registration
+•	Steps:
+1.	Open your web browser.
+2.	Visit any domain registration website (e.g., GoDaddy, Namecheap).
+3.	Search for your desired domain name.
+4.	Check availability.
+5.	Select and proceed to register or simulate registration (for demo).
+
+Practical No. 6: Search Web Hosting Plans with configuration
+•	Steps:
+1.	Open your web browser.
+2.	Visit popular hosting provider sites (e.g., Hostinger, Bluehost).
+3.	Browse hosting plans (Shared, VPS, Dedicated, etc.).
+4.	Note their configurations — disk space, bandwidth, email, and price.
+5.	Compare and choose the best suitable plan.
+
+Practical No. 7: Demonstrate free hosting with control panel
+•	Steps:
+1.	Open your browser and go to any free hosting site (e.g., 000webhost).
+2.	Create a free account.
+3.	Log in to the control panel.
+4.	Upload your HTML files.
+5.	Preview your hosted website using the provided link.
+
+Practical No. 8: Upload any demo video on YouTube
+•	Steps:
+1.	Open YouTube in your web browser.
+2.	Sign in with your Google account.
+3.	Click on “Create” → “Upload video.”
+4.	Select your video file from computer.
+5.	Enter title, description, and choose privacy settings.
+6.	Click on “Publish” to upload.
+
+Practical No. 9: Create and develop your blog
+•	Steps:
+1.	Open your browser and go to Blogger.com or WordPress.com.
+2.	Sign in using your Google account.
+3.	Click on “Create New Blog.”
+4.	Choose a blog name, URL, and theme.
+5.	Write your first post and publish it.
+
+Practical No. 10: Demonstrate E-Mail Functions
+•	Steps:
+1.	Open your email account (e.g., Gmail).
+2.	Click on “Compose.”
+3.	Enter recipient’s email address, subject, and message.
+4.	Attach any file if needed.
+5.	Click “Send” to deliver the email.
+6.	Check “Sent” folder to confirm delivery.
+

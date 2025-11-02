@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Online Shopping - Product Catalog</title>
+</head>
+<body>
+
+  <h1 align="center">My Online Shopping Site</h1>
+  <h2 align="center">Product Catalog</h2>
+  <hr>
+
+  <table border="1" cellspacing="0" cellpadding="10" align="center">
+    <tr>
+      <th>Product Image</th>
+      <th>Product Name</th>
+      <th>Description</th>
+      <th>Price</th>
+    </tr>
+
+    <tr>
+      <td><img src="https://via.placeholder.com/100" alt="T-Shirt"></td>
+      <td>Casual T-Shirt</td>
+      <td>Comfortable cotton T-shirt available in all sizes.</td>
+      <td>₹499</td>
+    </tr>
+
+    <tr>
+      <td><img src="https://via.placeholder.com/100" alt="Shoes"></td>
+      <td>Running Shoes</td>
+      <td>Lightweight sports shoes with soft cushioning.</td>
+      <td>₹1,299</td>
+    </tr>
+
+    <tr>
+      <td><img src="https://via.placeholder.com/100" alt="Watch"></td>
+      <td>Smart Watch</td>
+      <td>Touchscreen digital watch with fitness tracking.</td>
+      <td>₹2,499</td>
+    </tr>
+  </table>
+
+  <hr>
+
+  
+
+</body>
+</html>
