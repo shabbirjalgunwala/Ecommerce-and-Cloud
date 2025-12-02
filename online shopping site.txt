@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Online Shopping Site</title>
+</head>
+<body>
+
+  <h1 align="center">Welcome to My Online Shopping Site</h1>
+  <hr>
+
+  <h2>Featured Products</h2>
+
+  <table border="1" cellpadding="10" cellspacing="0">
+    <tr>
+      <th>Product</th>
+      <th>Description</th>
+      <th>Price</th>
+      <th>Buy</th>
+    </tr>
+
+    <tr>
+      <td><img src="https://via.placeholder.com/100" alt="T-Shirt"></td>
+      <td>Stylish Cotton T-Shirt</td>
+      <td>₹499</td>
+      <td><button>Add to Cart</button></td>
+    </tr>
+
+    <tr>
+      <td><img src="https://via.placeholder.com/100" alt="Shoes"></td>
+      <td>Comfortable Sports Shoes</td>
+      <td>₹1,299</td>
+      <td><button>Add to Cart</button></td>
+    </tr>
+
+    <tr>
+      <td><img src="https://via.placeholder.com/100" alt="Watch"></td>
+      <td>Smart Digital Watch</td>
+      <td>₹2,499</td>
+      <td><button>Add to Cart</button></td>
+    </tr>
+  </table>
+
+  <hr>
+
+  <h2>Customer Login</h2>
+  <form>
+    <label>Username:</label>
+    <input type="text" name="username" required><br><br>
+    <label>Password:</label>
+    <input type="password" name="password" required><br><br>
+    <input type="submit" value="Login">
+  </form>
+
+  <hr>
+
+  <h2>Contact Us</h2>
+  <p>Email: support@myshop.com</p>
+  <p>Phone: +91 98765 43210</p>
+  <p>Address: Mumbai, India</p>
+
+  <hr>
+  <p align="center">&copy; 2025 My Online Shopping Site. All rights reserved.</p>
+
+</body>
+</html>
