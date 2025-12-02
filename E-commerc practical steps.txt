@@ -1,86 +1,369 @@
-Practical No. 1: Download readymade free templates of E-Commerce websites and modify it
-•	Steps:
-1.	Open your web browser.
-2.	Search for “Free E-Commerce website templates.”
-3.	Visit any free template website (e.g., Free CSS, HTML5UP, etc.).
-4.	Download a suitable template.
-5.	Extract the ZIP file on your computer.
-6.	Open the template folder in VS Code or any HTML editor.
-7.	Modify text, images, and layout as per your requirement.
-8.	Save and preview the webpage in the browser.
+Practical 1: Download readymade free templates of E-Commerce websites and modify it
+1.	Open web browser
+Start any browser: Chrome / Firefox / Edge.
 
-Practical No. 2: Create simple and static demo web page for online shopping site
-•	Steps:
-1.    Open your code editor (e.g., VS Code).
-2.	Create a new HTML file named “index.html.”
-3.	Add basic HTML structure with title “Online Shopping Site.”
-4.	Insert navigation menu, product images, and “Buy Now” buttons.
-5.	Add CSS for layout and design.
-6.	Save and preview your webpage in a browser.
+2.	Search for free e-commerce templates
+In the search box type: free ecommerce website templates HTML CSS.
+Open any trusted site that offers free templates.
 
+3.	Select a template
+Browse the list of templates.
+Choose a template suitable for an online shopping site 
+Check that it is free to download.
 
-Practical No. 3: Create simple and static Feedback Form (web page) for online shopping site
-•	Steps:
-1.	Open your code editor and create a new HTML file named “feedback.html.”
-2.	Add a <form> tag with fields like Name, Email, Feedback, and Submit button.
-3.	Use CSS to style the form.
-4.	Save and preview the feedback page.
+4.	Download the template
+Click on Download button or link.
+Save the ZIP file in a folder on your computer, for example: D:\EcommerceTemplate.
 
-Practical No. 4: Create simple and static demo product catalog web page for online shopping site
-•	Steps:
-1.	Open your code editor and create “products.html.”
-2.	Create a table or grid to display product images, names, and prices.
-3.	Add “Add to Cart” buttons for each product.
-4.	Style the page using CSS.
-5.	Save and open in browser to view the product catalog.
+5.	Extract the template files
+Right-click the ZIP file → Extract All.
+A folder containing HTML, CSS, images, JS etc. will be created.
 
-Practical No. 5: Demonstrate domain registration
-•	Steps:
-1.	Open your web browser.
-2.	Visit any domain registration website (e.g., GoDaddy, Namecheap).
-3.	Search for your desired domain name.
-4.	Check availability.
-5.	Select and proceed to register or simulate registration (for demo).
+6.	Open template in browser
+Open the folder and double-click index.html.
+The sample e-commerce website will open in the browser.
 
-Practical No. 6: Search Web Hosting Plans with configuration
-•	Steps:
-1.	Open your web browser.
-2.	Visit popular hosting provider sites (e.g., Hostinger, Bluehost).
-3.	Browse hosting plans (Shared, VPS, Dedicated, etc.).
-4.	Note their configurations — disk space, bandwidth, email, and price.
-5.	Compare and choose the best suitable plan.
+7.	Open template in editor
+Open any code editor: Notepad / VS Code / Sublime etc.
+From editor, open index.html and main CSS file (for example style.css).
 
-Practical No. 7: Demonstrate free hosting with control panel
-•	Steps:
-1.	Open your browser and go to any free hosting site (e.g., 000webhost).
-2.	Create a free account.
-3.	Log in to the control panel.
-4.	Upload your HTML files.
-5.	Preview your hosted website using the provided link.
+8.	Modify text content
+Change site name to your own shop name.
+Edit headings like “Welcome to our store”, “Featured products”, “Contact us” with your own text.
+Save the file and refresh the browser to see the change.
 
-Practical No. 8: Upload any demo video on YouTube
-•	Steps:
-1.	Open YouTube in your web browser.
-2.	Sign in with your Google account.
-3.	Click on “Create” → “Upload video.”
-4.	Select your video file from computer.
-5.	Enter title, description, and choose privacy settings.
-6.	Click on “Publish” to upload.
+9.	Modify images (optional)
+Replace sample product images with your own images.
+Keep same file names or update the src attribute in <img> tags.
+Save changes and refresh.
 
-Practical No. 9: Create and develop your blog
-•	Steps:
-1.	Open your browser and go to Blogger.com or WordPress.com.
-2.	Sign in using your Google account.
-3.	Click on “Create New Blog.”
-4.	Choose a blog name, URL, and theme.
-5.	Write your first post and publish it.
+10.	Modify basic styles (optional)
+Background color
+Font size/style
+Button color
 
-Practical No. 10: Demonstrate E-Mail Functions
-•	Steps:
-1.	Open your email account (e.g., Gmail).
-2.	Click on “Compose.”
-3.	Enter recipient’s email address, subject, and message.
-4.	Attach any file if needed.
-5.	Click “Send” to deliver the email.
-6.	Check “Sent” folder to confirm delivery.
+11.	Test modified template
+Open all pages (Home, Products, Contact, etc.) and check that links are working.
+Ensure layout is proper.
+
+12.	Save final project
+Copy the final folder as MyEcommerceTemplate_Modified.
+Keep it ready for submission or upload.
+
+______________________________________________________________
+Practical 2: Create simple and static demo web page for online shopping site
+1.	Create project folder
+Make a new folder OnlineShopHome.
+
+2.	Open editor and create HTML file
+Open Notepad / VS Code.
+Save a new file as index.html inside OnlineShopHome.
+
+3.	Write basic HTML structure
+
+4.	Create header section
+Site logo or name
+Simple navigation menu links: Home, Products, Offers, Contact.
+
+5.	Add banner / welcome message
+Add a big heading and short description
+
+6.	Add product highlight section
+Use table or div to show 3–4 sample products.
+For each product show image, name, price, and “Buy Now” button
+
+7.	Add footer
+At bottom add contact info, copyright line, and basic links.
+
+8.	Apply basic styling
+Background color
+Center alignment for headings
+Borders for product table.
+
+9.	Save and preview
+Save index.html.
+Double-click the file to open in browser.
+Check layout and correct any errors.
+
+10.	Finalize
+Ensure page is static (no server-side coding). 
+Keep folder and file properly named for submission.
+
+________________________________________________________________
+Practical 3: Create simple and static Feedback Form (web page) for online shopping site
+1.	Create folder
+Folder name: OnlineShopFeedback.
+
+2.	Create HTML file
+New file: feedback.html.
+
+3.	Write basic HTML structure
+Same pattern as before, title: Customer Feedback.
+
+4.	Add heading and instructions
+Inside <body> write: <h2>Customer Feedback Form</h2> and a short note asking users to fill the form.
+
+5.	Create form element
+
+6.	Add form fields
+Text fields: Name, Email, Mobile.
+Drop-down for “How did you find our site?”.
+Radio buttons for “Overall experience” (Excellent / Good / Average / Poor).
+Checkboxes for “What did you like?” (Products / Prices / Delivery / Support).
+
+7.	Add Submit and Reset buttons
+
+8.	Apply basic form styling
+Use table or div for neat alignment.
+Simple CSS for label and input spacing.
+
+9.	Save and view in browser
+Open feedback.html in browser.
+Enter sample data and press Submit (for static page, it may not actually send, just reload).
+
+10.	Validate visually
+Check all controls appear properly and labels are clear.
+Correct any spelling or alignment issues.
+
+______________________________________________________________________
+Practical 4: Create simple and static demo product catalog web page for online shopping site
+1.	Create folder and HTML file
+Folder: OnlineShopCatalog.
+File: catalog.html.
+
+2.	Add basic structure and title
+Title: Product Catalog.
+
+3.	Add page heading
+
+4.	Design catalog using table or cards
+Use an HTML table with columns: Product Image, Name, Description, Price, “Add to Cart” / “Buy Now”.
+Add at least 5–10 sample products.
+
+5.	Add images
+Store product images in images subfolder.
+
+6.	Add basic styles
+Borders for table, alternate row color, padding.
+Make headings bold.
+
+7.	Save and test
+Open catalog.html and scroll through entire list.
+Check images are loading and text is readable.
+
+8.	Finalize
+Ensure code is properly indented and comments are added for clarity.
+
+________________________________________________________________
+Practical 5: Demonstrate domain registration
+1.	Open browser and go to any domain registrar site
+Example: popular domain registration websites.
+
+2.	Search for desired domain name
+In search box type name like myonlineshop.com.
+Click Search.
+
+3.	Check availability
+If name is available, website shows “Available”.
+If not, try another name or choose different extension (.net, .in etc.).
+
+4.	Select domain
+Tick/select the domain you want.
+Click Add to Cart or similar button.
+
+5.	Choose registration period
+Most sites allow 1 year, 2 years, etc.
+Select at least 1-year registration.
+
+6.	Choose extra options (optional)
+Privacy protection (hide your details in WHOIS).
+Email or hosting (can be skipped if not required).
+
+7.	Create account / login
+Register as new user with email and password.
+Provide contact details: name, address, phone.
+
+8.	Provide domain owner details
+Fill registrant contact, admin contact, etc. if asked.
+
+9.	Review and confirm order
+Check domain name, price, years, and additional services.
+
+10.	Make payment
+Choose payment method (card / net banking / wallet).
+Complete the payment.
+
+11.	Get confirmation
+After payment, confirmation message and email with invoice and control panel link is sent.
+Domain now appears in your account dashboard.
+
+____________________________________________________________
+Practical 6: Search Web Hosting Plans with configuration
+1.	Open browser and go to hosting provider site
+Any shared / cloud hosting provider.
+
+2.	Navigate to Hosting Plans section
+Click on “Web Hosting”, “Shared Hosting” etc.
+
+3.	List available plans
+Note plan names like Basic, Standard, Premium.
+
+4.	Study configuration of each plan
+Disk space / SSD storage, Bandwidth, Number of websites allowed, Email accounts, Databases, Control panel type (cPanel, custom), Free SSL, backup etc.
+
+5.	Compare prices
+For each plan, note price per month or per year.
+
+6.	Identify suitable plan
+Decide which plan is best for a small online shopping site (enough storage, one domain, database, reasonable price).
+
+7.	Save details
+Take screenshot or save page for submission.
+
+________________________________________________________________
+Practical 7: Demonstrate free hosting with control panel
+1.	Find a free hosting provider
+Search “free web hosting with control panel”.
+Choose one provider that offers cPanel or custom panel.
+
+2.	Create an account
+Register with email and password.
+Verify email if needed.
+
+3.	Create new website / hosting account
+In dashboard click “Add new website” or “Create hosting account”.
+Choose sub-domain name (e.g. myshop.freehost.com).
+
+4.	Open control panel
+Click on Control Panel / cPanel link for that website.
+
+5.	Upload website files
+In control panel open File Manager.
+Go to public_html or htdocs directory.
+Upload your index.html, CSS, images etc. from earlier practical.
+
+6.	Check website online
+Open new tab and type your free sub-domain URL.
+Your website should load from internet.
+
+7.	Create email / database (optional)
+In control panel explore options like Email accounts, MySQL databases.
+Note how to create them (even if you don’t use).
+
+8.	Logout
+Safely log out of control panel and hosting account.
+
+_______________________________________________________________
+Practical 8: Upload any demo video on YouTube
+1.	Login to Google account
+Go to www.youtube.com.
+Sign in using Google ID.
+
+2.	Create YouTube channel (first time only)
+Click on profile icon → Create a channel.
+Set channel name and upload profile picture if required.
+
+3.	Prepare demo video
+Keep any short video file ready on your computer (e.g., explaining your project).
+
+4.	Upload video
+Click Create (camera icon with plus) → Upload video.
+Drag and drop video file or click Select files to choose.
+
+5.	Enter video details
+Title: meaningful name.
+Description: brief information about video.
+Choose thumbnail (auto or custom).
+Select playlist (optional).
+
+6.	Set audience
+Answer “Is this made for kids?” Yes/No as applicable.
+
+7.	Visibility settings
+Choose Public, Unlisted, or Private as needed.
+For demo, usually choose Unlisted or Public.
+
+8.	Publish video
+Click Publish / Save.
+Note the video URL for record.
+
+9.	Verify upload
+Open link and play video to check audio and video quality.
+
+________________________________________________________
+Practical 9: Create and develop your blog
+1.	Choose blogging platform
+Examples: Blogger, WordPress.com, etc.
+
+2.	Sign in / create account
+Use email ID to sign up and log in.
+
+3.	Create new blog
+Click Create New Blog / Site.
+Enter blog title (e.g., “My Tech Blog”).
+Choose blog address or URL.
+Select a theme or template.
+
+4.	Set basic settings
+Add description, language, and time zone.
+Configure privacy or visibility as needed.
+
+5.	Create first post
+Click New Post.
+Enter post title, e.g., “Welcome to My Blog”.
+Type content: introduction about yourself or your project.
+Format text: headings, bold, bullet list.
+
+6.	Insert image (optional)
+Use Insert Image button to upload and insert picture.
+
+7.	Publish post
+Click Publish button.
+View post using View Blog link.
+
+8.	Customize blog design (optional)
+Change template colors, fonts, and layout.
+Add gadgets / widgets (search box, labels, archive).
+
+9.	Share blog URL
+Copy blog URL for submission or sharing.
+
+______________________________________________________
+Practical 10: Demonstrate E-Mail Functions
+1.	Open email service
+Go to any email provider (Gmail, Outlook, etc.).
+Login with your email ID and password.
+
+2.	Compose a new mail
+Click Compose / New Mail.
+In To field type recipient email (friend or your second account).
+Add Subject like “Test Email Functions”.
+Type message in body.
+
+3.	Attach a file
+Click Attach files / paperclip icon.
+Select any file (e.g., a PDF or image) and upload.
+
+4.	Send email
+Click Send button.
+
+5.	Check Sent Items
+Open Sent folder to confirm email is sent.
+
+6.	Demonstrate Reply
+Open the email from Inbox (if you sent to your own second account or ask friend).
+Click Reply, type response, and click Send.
+
+7.	Demonstrate Forward
+Open same email.
+Click Forward.
+Enter another email address and send.
+
+8.	Demonstrate CC and BCC (optional)
+While composing mail, add extra recipients in Cc (Carbon Copy) and Bcc (Blind Carbon Copy).
+
+9.	Logout
+After demonstration log out from email account.
+
+________________________________________________________
 
