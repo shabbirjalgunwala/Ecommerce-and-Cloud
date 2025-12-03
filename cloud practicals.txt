@@ -43,3 +43,109 @@ Assignment No. 4 : Setting Up a Simple Website on GitHub
 3\. Enable GitHub Pages in repository settings.
 
 4\. Access your live site using the provided GitHub Pages link.
+________________________________________________________________________________________-
+
+Assignment No. 1: Working on Google Drive to Make Spreadsheets and Notes
+Steps
+1.	Open a web browser and go to https://drive.google.com.
+2.	Sign in using your Google account (Gmail ID).
+3.	Click on + New button on the left side.
+4.	To create notes:
+      Select Google Docs → Blank document.
+      Type notes/content in the document.
+      Click on File → Rename and give a suitable name.
+      Changes are saved automatically.
+5.	To create a spreadsheet:
+      Click + New → Google Sheets.
+      Enter headings in rows and columns.
+      Perform basic calculations using formulas like =SUM().
+6.	To organize files:
+      Create folders using + New → Folder.
+      Drag and drop files into folders.
+7.	To share files:
+      Right-click the file → Share.
+      Enter email ID or set access permissions (Viewer/Editor).
+8.	Log out after use.
+
+Assignment No. 2: Installation and Configuration of JustCloud
+Steps
+1.	Open a browser and visit the JustCloud official website.
+2.	Download the JustCloud setup file.
+3.	Double-click the installer and start installation.
+4.	Accept the license agreement and proceed.
+5.	Login using registered JustCloud account credentials.
+6.	Select folders (documents, photos, videos, music) for backup.
+7.	Choose automatic backup settings.
+8.	Allow JustCloud to upload selected data to cloud storage.
+9.	Verify backup completion status.
+
+Assignment No. 3: Implementing Virtual Machines with VirtualBox
+Steps
+1.	Download Oracle VirtualBox from its official website.
+2.	Install VirtualBox on the system.
+3.	Open VirtualBox and click New.
+4.	Enter VM name and select OS type and version.
+5.	Allocate RAM and create a virtual hard disk.
+6.	Choose disk type (VDI) and storage type (Dynamic).
+7.	Finish VM creation.
+8.	Insert OS ISO file under Settings → Storage.
+9.	Start the virtual machine and install OS.
+10.	Use VM independently from host system.
+
+Assignment No. 4: Setting up a Cloud Environment with OpenStack
+Steps
+1.	Install Linux operating system (Ubuntu preferred).
+2.	Update system packages.
+3.	Install OpenStack using DevStack or Packstack.
+4.	Configure network, compute, and storage components.
+5.	Start OpenStack services.
+6.	Access OpenStack Dashboard (Horizon) via browser.
+7.	Create users, projects, and instances.
+8.	Launch virtual machines from dashboard.
+9.	Monitor and manage resources.
+
+Assignment No. 5: Setting up a Simple Website on GitHub
+Steps
+1.	Open https://github.com and login.
+2.	Create a new repository.
+3.	Name repository and set it to public.
+4.	Upload HTML, CSS files.
+5.	Go to Settings → Pages.
+6.	Select branch (main) and save.
+7.	GitHub generates a website link.
+8.	Open the link in browser to view website.
+
+Assignment No. 6: Introduction to Cloud CRM (Salesforce)
+Steps
+1.	Visit https://www.salesforce.com.
+2.	Sign up for a free Salesforce account.
+3.	Login to Salesforce dashboard.
+4.	Explore tabs like Leads, Accounts, Contacts.
+5.	Create a new lead entry.
+6.	Update customer information.
+7.	Understand CRM workflow and automation.
+8.	Logout after use.
+
+Assignment No. 7: Data Analytics on the Cloud (Salesforce)
+Steps
+1.	Login to Salesforce.
+2.	Navigate to Reports section.
+3.	Click New Report.
+4.	Select report type (Accounts, Leads, etc.).
+5.	Add filters and columns.
+6.	Generate report and save it.
+7.	Create dashboard using multiple reports.
+8.	Analyze graphical representation of data.
+
+Assignment No. 8: Introduction to Amazon AWS S3
+Steps
+1.	Visit https://aws.amazon.com and login.
+2.	Open AWS Management Console.
+3.	Navigate to S3 service.
+4.	Create a new bucket with unique name.
+5.	Enable public access permissions.
+6.	Upload HTML, CSS files.
+7.	Enable static website hosting.
+8.	Set index document.
+9.	Copy generated URL and open in browser.
+
